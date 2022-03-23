@@ -3,23 +3,23 @@
 
 class Solution {
     public List<String> fizzBuzz(int n) {
-        String [] solutionArray=new String[n];
+        ArrayList <String> solutionList=new ArrayList();
         for(int i=1;i<=n;i++){
 
             if(i%15==0){
-                solutionArray[i-1]="FizzBuzz";
+                solutionList.add("FizzBuzz");
             }else if(i%5==0){
-        solutionArray[i-1]="Buzz";
+        solutionList.add("Buzz");
             }
             else if( i%3==0){
-                solutionArray[i-1]="Fizz";
+             solutionList.add("Fizz");
             }
             else{
-                solutionArray[i-1]=Integer.toString(i);
+                solutionList.add(Integer.toString(i));
             }
 
         }
-        return Arrays.asList(solutionArray);
+        return solutionList;
         
     }
 }
