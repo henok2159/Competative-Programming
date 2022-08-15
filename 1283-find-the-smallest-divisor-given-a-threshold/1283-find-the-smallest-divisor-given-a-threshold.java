@@ -11,8 +11,8 @@ class Solution {
             int mid=low+(high-low)/2;
             double m=(double)mid;
             int sum=0;
-            for(int i=0;i<nums.length;i++){
-                sum+=Math.ceil(nums[i]/m);
+            for(int num:nums){
+                sum+=Math.ceil(num/m);
             }
            
             if(sum>threshold){
