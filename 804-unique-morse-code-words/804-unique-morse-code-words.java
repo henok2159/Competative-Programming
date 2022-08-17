@@ -10,8 +10,8 @@ class Solution {
             int d=(int)word.charAt(i);
             tt+=transformTable[d-97];
         }
-        if(hs.add(tt))count++;
+        hs.add(tt);
     }
-        return count;
+        return hs.size();
     }
 }
