@@ -26,6 +26,7 @@ class Solution {
             System.out.print(sum+" ");
             if(root.left==null&&root.right==null&&targetSum==sum){
                 ls.add(l);
+                return;
             }
           
             calculateSum(root.left,new ArrayList<Integer>(l),sum,targetSum);
