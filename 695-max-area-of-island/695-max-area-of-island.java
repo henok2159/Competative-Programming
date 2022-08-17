@@ -7,8 +7,9 @@ class Solution {
         this.grid=grid;
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid[i].length;j++){
+                if(!seen[i][j])
                maxArea=Math.max(maxArea,findArea(i,j));
-                System.out.print(maxArea+" ");
+                
             }
             
         }
