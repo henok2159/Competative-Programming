@@ -18,9 +18,9 @@ class Solution {
             for(int j=0;j<board[0].length;j++){
                 if(board[i][j]=='O'&&!seen[i][j])
                     board[i][j]='X';
-                System.out.print(seen[i][j]+" ");
+               // System.out.print(seen[i][j]+" ");
             }
-            System.out.println();
+           // System.out.println();
         }
         
     }
@@ -29,7 +29,7 @@ class Solution {
         
       if(r>=0&&r<board.length&&c>=0&&c<board[0].length&&board[r][c]=='O'&&!seen[r][c])  {
             seen[r][c]=true;
-     
+            
          dfs(r-1,c);
          dfs(r+1,c);
          dfs(r,c-1);
