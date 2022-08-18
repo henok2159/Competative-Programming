@@ -15,7 +15,7 @@ class Solution {
         while(d<n/2){
             count++;
             d+=pq.remove();
-            System.out.print(d+" ");
+            
         }
         return count;
     }
