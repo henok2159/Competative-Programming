@@ -3,15 +3,18 @@ class Solution {
         if(nums.length==1)return 0;
         int count=0;
         int i=0;
+        int max=0;
+        int selectedIndex=0;
+        int j=0;
         while(i<nums.length){
             count++;
             if(i+nums[i]>=nums.length-1){
                 return count;
             }
             
-            int max=0;
-            int selectedIndex=i;
-            int j=i;
+             max=0;
+             selectedIndex=i;
+             j=i;
             while(j<=i+nums[i]){
                 if(max<j+nums[j]){
                     selectedIndex=j;
