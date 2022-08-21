@@ -25,8 +25,9 @@ class Solution {
                   sum++;
               }
           }
+          if(sum>=n)return true;
       }
         
-        return sum>=n?true:false;
+        return sum>=n;
     }
 }
