@@ -6,16 +6,15 @@ class Solution {
         for(int i=0;i<palindrome.length();i++){
             if(!isA&&palindrome.charAt(i)!='a'&&palindrome.length()/2!=i){
                 isA=true;
-                sss+='a';
+           palindrome=     palindrome.substring(0,i)+"a"+palindrome.substring(i+1,palindrome.length());
+                break;
             }
-            else {
-                sss+=palindrome.charAt(i);
-            }
+          
         }
         if(!isA){
-            sss=sss.substring(0,sss.length()-1);
-            sss+='b';
+            palindrome=palindrome.substring(0,palindrome.length()-1)+"b";
+            
         }
-        return sss;
+        return palindrome;
     }
 }
