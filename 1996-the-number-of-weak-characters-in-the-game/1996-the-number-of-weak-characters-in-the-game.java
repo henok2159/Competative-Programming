@@ -17,7 +17,7 @@ class Solution {
            if(maxval>properties[i][1]){
                count++;
            } 
-            else maxval=Math.max(maxval,properties[i][1]);
+            else maxval=properties[i][1];
         }
         return count;
     }
