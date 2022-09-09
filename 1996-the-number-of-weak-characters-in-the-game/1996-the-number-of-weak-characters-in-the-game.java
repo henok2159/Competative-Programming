@@ -10,10 +10,10 @@ class Solution {
          return result;
      }
  });    int maxval=properties[0][1];
-        System.out.println(properties[0][0]+" "+properties[0][1]);
+      
            int count=0;
         for(int i=1;i<properties.length;i++){
-            System.out.println(properties[i][0]+" "+properties[i][1]);
+          
            if(maxval>properties[i][1]){
                count++;
            } 
