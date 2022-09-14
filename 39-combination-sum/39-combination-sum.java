@@ -2,28 +2,28 @@ class Solution {
     List<List<Integer>>ls;
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         ls=new ArrayList();
-        dfs(0,new ArrayList(),0,target,candidates);
+        dfs(0,new Stack(),0,target,candidates);
         return ls;
         
     }
-    void dfs(int i,ArrayList<Integer>curr,int total,int target,int[] candidates){
+    void dfs(int i,Stack<Integer>curr,int total,int target,int[] candidates){
         
         if(total==target){
-            ls.add(curr);
+           
+            ArrayList<Integer>ll=new ArrayList();
+            for(int item:curr)ll.add(item);
+             ls.add(ll);
             return;
         }
         if(total>target||i>candidates.length-1){
             return;
         }
-        ArrayList al=new ArrayList();
-        ArrayList aa=new ArrayList();
-        al=(ArrayList)curr.clone();
-        aa=(ArrayList)curr.clone();
-        al.add(candidates[i]);
+       
+        curr.push(candidates[i]);
         
-        
-        dfs(i,al,total+candidates[i],target,candidates);
-        dfs(i+1,aa,total,target,candidates);
+        dfs(i,curr,total+candidates[i],target,candidates);
+        curr.pop();
+        dfs(i+1,curr,total,target,candidates);
             
         
     }
