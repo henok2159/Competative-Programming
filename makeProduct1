@@ -1,0 +1,45 @@
+import java.util.*;
+
+public class sss{
+      public static void main(String []args){
+          
+            Scanner sc=new Scanner(System.in);
+            int n=sc.nextInt();
+            long []nums=new long[n];
+            for(int i=0;i<n;i++){
+                  nums[i]=sc.nextLong();
+            }
+            long zeroCount=0;
+            long tcount=0;
+            long ncount=0;
+            for(int i=0;i<n;i++){
+                  if(nums[i]==0){
+                        zeroCount++;
+                  }
+                  else if(nums[i]>0){
+                        tcount+=nums[i]-1;
+                  }
+                  else{
+                        ncount++;
+                        tcount+=-1-nums[i];
+                  }
+                  
+            }
+            if(zeroCount>0)
+            {
+                  tcount+=zeroCount;
+               
+            }
+            else{
+                  if(ncount%2==0){
+                      
+                  }
+                  else{
+                        tcount+=2;
+                     
+                  }
+            }
+               System.out.println(tcount);
+      }
+      
+}
