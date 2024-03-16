@@ -17,9 +17,7 @@ class Solution:
                 close_penality[i]=close_penality[i+1]
         
         mx=111234567897652345678
-        pos=11111111111111111111
-        print(open_penality)
-        print(close_penality)
+        pos=1111111111111111    
         for i in range(len(close_penality)):
             if mx>close_penality[i]+open_penality[i]:
                 mx=close_penality[i]+open_penality[i]
