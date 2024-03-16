@@ -1,5 +1,7 @@
 class Solution:
     def restoreIpAddresses(self, s: str) -> List[str]:
+        if len(s)>12 and len(s)<4:
+            return []
         
         sol=[]
         def dfs(ans,i,j,z):
