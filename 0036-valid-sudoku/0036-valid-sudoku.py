@@ -5,8 +5,6 @@ class Solution:
             ss=set()
             for j in range(9):
                 if board[i][j] in ss:
-                    print('a')
-                    print(ss)
                     return False
                 if board[i][j].isdigit():
                     ss.add(board[i][j])
@@ -15,8 +13,7 @@ class Solution:
             ss=set()
             for j in range(9):
                 if board[j][i] in ss:
-                    print('b')
-                    return False
+                      return False
                 if board[j][i].isdigit():
                     ss.add(board[j][i])
         
@@ -27,7 +24,6 @@ class Solution:
                     for k in range(i,i+3):
                         for l in range(j,j+3):
                             if board[k][l] in ss:
-                                print('c')
                                 return False
                             if board[k][l].isdigit():
                                 ss.add(board[k][l])
