@@ -18,10 +18,10 @@ class Solution:
                 continue
             low=0
             high=len(ls)-1
-            print(high)
+            
             while low<=high:
                 mid=(low+high)//2
-                print(mid)
+                
                 if ls[mid]>q:
                     high=mid-1
                     
