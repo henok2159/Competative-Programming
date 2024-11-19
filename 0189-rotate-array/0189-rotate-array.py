@@ -3,17 +3,24 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        arr=[]
-        count=k
-        while count>0:
-            arr.append(nums[(len(nums)-count)%len(nums)])
-            count-=1
+     
+        nums.reverse()
+        k=k%len(nums)
         
-        for i in range(len(nums)-1,k-1,-1):
-            # print(str(nums[i+k])+ "  "+str(nums[i]))
-            nums[i]=nums[i-k]
-            
-        for i in range(len(arr)):
-            nums[i%len(nums)]=arr[i]
+        l=0
+        r=k-1
+        while l<r:
+            nums[l],nums[r]=nums[r],nums[l]
+            l+=1
+            r-=1
+
+           
+        
+        l=k
+        r=len(nums)-1
+        while l<r:
+            nums[l],nums[r]=nums[r],nums[l]
+            l+=1
+            r-=1
             
         
