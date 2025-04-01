@@ -21,6 +21,7 @@ this is a leet code solution that I did
 ## Array
 |  |
 | ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/henok2159/Competative-Programming/tree/master/2262-solving-questions-with-brainpower) |
 | [3430-count-days-without-meetings](https://github.com/henok2159/Competative-Programming/tree/master/3430-count-days-without-meetings) |
 ## Sorting
 |  |
@@ -34,4 +35,8 @@ this is a leet code solution that I did
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/henok2159/Competative-Programming/tree/master/0768-partition-labels) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/henok2159/Competative-Programming/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
