@@ -22,6 +22,7 @@ this is a leet code solution that I did
 |  |
 | ------- |
 | [2262-solving-questions-with-brainpower](https://github.com/henok2159/Competative-Programming/tree/master/2262-solving-questions-with-brainpower) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/henok2159/Competative-Programming/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/henok2159/Competative-Programming/tree/master/3430-count-days-without-meetings) |
 ## Sorting
 |  |
