@@ -1,6 +1,6 @@
 # Competative-Programming
 
-this is a leet code solution that I did
+https://leetcode.com/u/HenokM/
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
