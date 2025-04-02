@@ -1,10 +1,22 @@
 class Solution:
     def maximumTripletValue(self, nums: List[int]) -> int:
         mx=0
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums),1):
-                for k in range(j+1, len(nums),1):
-                    mx=max((nums[i]-nums[j])*nums[k],mx)
+        arr=[0]*len(nums)
+        arr[len(nums)-1]=nums[len(nums)-1]
+        for i in reversed(range(len(nums)-1)):
+            
+            arr[i]=max(arr[i+1],nums[i])
+        
+        mxNum=0
+        
+        for i in range(len(nums)-1):
+            if mxNum<nums[i]:
+                mxNum=nums[i]
+            else:
+                mx=max(mx,(mxNum-nums[i])*arr[i+1])
+                # print('mx: ' +str(mxNum))
+                # print('arr:' +str(arr[i]))
+                # print('num:' +str(nums[i]))
         return mx
 
         
