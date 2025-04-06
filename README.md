@@ -22,6 +22,7 @@ https://leetcode.com/u/HenokM/
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/henok2159/Competative-Programming/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/henok2159/Competative-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/henok2159/Competative-Programming/tree/master/2262-solving-questions-with-brainpower) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/henok2159/Competative-Programming/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -30,6 +31,7 @@ https://leetcode.com/u/HenokM/
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/henok2159/Competative-Programming/tree/master/0368-largest-divisible-subset) |
 | [3430-count-days-without-meetings](https://github.com/henok2159/Competative-Programming/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
@@ -42,6 +44,7 @@ https://leetcode.com/u/HenokM/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/henok2159/Competative-Programming/tree/master/0368-largest-divisible-subset) |
 | [2262-solving-questions-with-brainpower](https://github.com/henok2159/Competative-Programming/tree/master/2262-solving-questions-with-brainpower) |
 ## Tree
 |  |
@@ -62,6 +65,7 @@ https://leetcode.com/u/HenokM/
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/henok2159/Competative-Programming/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/henok2159/Competative-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
