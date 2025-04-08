@@ -10,6 +10,7 @@ https://leetcode.com/u/HenokM/
 | [0768-partition-labels](https://github.com/henok2159/Competative-Programming/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/henok2159/Competative-Programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/henok2159/Competative-Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/henok2159/Competative-Programming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ https://leetcode.com/u/HenokM/
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/henok2159/Competative-Programming/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/henok2159/Competative-Programming/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/henok2159/Competative-Programming/tree/master/3430-count-days-without-meetings) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/henok2159/Competative-Programming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
 | ------- |
