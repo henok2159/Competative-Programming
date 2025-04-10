@@ -16,6 +16,7 @@ https://leetcode.com/u/HenokM/
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/henok2159/Competative-Programming/tree/master/0768-partition-labels) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/henok2159/Competative-Programming/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/henok2159/Competative-Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
@@ -52,6 +53,7 @@ https://leetcode.com/u/HenokM/
 | [0368-largest-divisible-subset](https://github.com/henok2159/Competative-Programming/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/henok2159/Competative-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/henok2159/Competative-Programming/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/henok2159/Competative-Programming/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Tree
 |  |
 | ------- |
@@ -73,6 +75,7 @@ https://leetcode.com/u/HenokM/
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/henok2159/Competative-Programming/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/henok2159/Competative-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/henok2159/Competative-Programming/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
 | ------- |
