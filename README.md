@@ -32,6 +32,7 @@ https://leetcode.com/u/HenokM/
 | [2262-solving-questions-with-brainpower](https://github.com/henok2159/Competative-Programming/tree/master/2262-solving-questions-with-brainpower) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/henok2159/Competative-Programming/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/henok2159/Competative-Programming/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3321-type-of-triangle](https://github.com/henok2159/Competative-Programming/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/henok2159/Competative-Programming/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/henok2159/Competative-Programming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/henok2159/Competative-Programming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -39,6 +40,7 @@ https://leetcode.com/u/HenokM/
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/henok2159/Competative-Programming/tree/master/0368-largest-divisible-subset) |
+| [3321-type-of-triangle](https://github.com/henok2159/Competative-Programming/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/henok2159/Competative-Programming/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
@@ -78,6 +80,7 @@ https://leetcode.com/u/HenokM/
 | [1993-sum-of-all-subset-xor-totals](https://github.com/henok2159/Competative-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/henok2159/Competative-Programming/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/henok2159/Competative-Programming/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/henok2159/Competative-Programming/tree/master/3321-type-of-triangle) |
 ## Backtracking
 |  |
 | ------- |
