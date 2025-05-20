@@ -35,6 +35,7 @@ https://leetcode.com/u/HenokM/
 | [3321-type-of-triangle](https://github.com/henok2159/Competative-Programming/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/henok2159/Competative-Programming/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/henok2159/Competative-Programming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3639-zero-array-transformation-i](https://github.com/henok2159/Competative-Programming/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/henok2159/Competative-Programming/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
@@ -99,4 +100,8 @@ https://leetcode.com/u/HenokM/
 | [1656-count-good-triplets](https://github.com/henok2159/Competative-Programming/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/henok2159/Competative-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/henok2159/Competative-Programming/tree/master/2998-count-symmetric-integers) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/henok2159/Competative-Programming/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
