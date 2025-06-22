@@ -16,6 +16,7 @@ https://leetcode.com/u/HenokM/
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/henok2159/Competative-Programming/tree/master/0768-partition-labels) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/henok2159/Competative-Programming/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/henok2159/Competative-Programming/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/henok2159/Competative-Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
@@ -104,4 +105,8 @@ https://leetcode.com/u/HenokM/
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/henok2159/Competative-Programming/tree/master/3639-zero-array-transformation-i) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/henok2159/Competative-Programming/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
