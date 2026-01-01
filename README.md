@@ -26,6 +26,7 @@ https://leetcode.com/u/HenokM/
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/henok2159/Competative-Programming/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/henok2159/Competative-Programming/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/henok2159/Competative-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [1656-count-good-triplets](https://github.com/henok2159/Competative-Programming/tree/master/1656-count-good-triplets) |
@@ -78,6 +79,7 @@ https://leetcode.com/u/HenokM/
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/henok2159/Competative-Programming/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/henok2159/Competative-Programming/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/henok2159/Competative-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/henok2159/Competative-Programming/tree/master/2998-count-symmetric-integers) |
