@@ -8,6 +8,7 @@ https://leetcode.com/u/HenokM/
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/henok2159/Competative-Programming/tree/master/0768-partition-labels) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/henok2159/Competative-Programming/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/henok2159/Competative-Programming/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/henok2159/Competative-Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/henok2159/Competative-Programming/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -29,6 +30,7 @@ https://leetcode.com/u/HenokM/
 | [0066-plus-one](https://github.com/henok2159/Competative-Programming/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/henok2159/Competative-Programming/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/henok2159/Competative-Programming/tree/master/0416-partition-equal-subset-sum) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/henok2159/Competative-Programming/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1656-count-good-triplets](https://github.com/henok2159/Competative-Programming/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/henok2159/Competative-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/henok2159/Competative-Programming/tree/master/2262-solving-questions-with-brainpower) |
