@@ -17,6 +17,7 @@ https://leetcode.com/u/HenokM/
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/henok2159/Competative-Programming/tree/master/0014-longest-common-prefix) |
 | [0768-partition-labels](https://github.com/henok2159/Competative-Programming/tree/master/0768-partition-labels) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/henok2159/Competative-Programming/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/henok2159/Competative-Programming/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -29,6 +30,7 @@ https://leetcode.com/u/HenokM/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/henok2159/Competative-Programming/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/henok2159/Competative-Programming/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/henok2159/Competative-Programming/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/henok2159/Competative-Programming/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/henok2159/Competative-Programming/tree/master/0416-partition-equal-subset-sum) |
@@ -115,4 +117,8 @@ https://leetcode.com/u/HenokM/
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/henok2159/Competative-Programming/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/henok2159/Competative-Programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
